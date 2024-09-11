@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/content">
+        <file>data/background1.png</file>
+        <file>data/doodle.png</file>
+        <file>data/platform_normal.png</file>
+        <file>data/background0.png</file>
+        <file>data/Pixel.otf</file>
+        <file>data/button_bg.png</file>
+        <file>data/button_bg2.png</file>
+        <file>data/al-seana.ttf</file>
+        <file>data/pause_button.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>qml/DoodleUnit.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/Platform.qml</file>
+        <file>qml/ButtonCommon.qml</file>
+        <file>qml/StartingMenu.qml</file>
+        <file>qml/ButtonPause.qml</file>
+        <file>qml/HighscoreMenu.qml</file>
+        <file>qml/EndgameMenu.qml</file>
+    </qresource>
+</RCC>
